@@ -1,3 +1,5 @@
+wiki:https://github.com/bhavanasreeps18/Indian_classical_music_generation_using_LSTM_and_RNN.wiki.git
+
 Generating Indian classical music with LSTM or RNN and incorporating visuals for playability involves a bit of complexity. Here's a simplified outline of how you could approach it using Python with libraries like TensorFlow/Keras for the model and libraries like Music21 and Matplotlib for visualization:
 
 1)Install Dependencies:
